@@ -1,0 +1,20 @@
+.travel_book {
+    display: inline;
+    float: right;
+    background-color: rgb(47,125,174);
+    color: white;
+    padding: 8px 30px;
+    font-size: 25px;
+    margin-top: -9px;
+    cursor: pointer;
+}
+
+.ep-ea-print-btn { 
+    display: none!important;
+}
+
+.ep-ea.noprint {
+    max-width: 950px;
+    min-width: 600px;
+}
+
